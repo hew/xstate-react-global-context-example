@@ -1,0 +1,28 @@
+{
+  "name": "xstate-react-global-context-example",
+  "version": "1.0.0",
+  "description": "Quick example for the gang",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@xstate/react": "^0.7.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "xstate": "^4.6.7"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "@babel/plugin-transform-react-jsx": "7.3.0",
+    "babel-plugin-emotion": "10.0.14",
+    "babel-plugin-module-resolver": "3.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "react",
+    "starter",
+    "xstate"
+  ]
+}
